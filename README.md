@@ -1,6 +1,6 @@
 # Desaparecidos na Cidade de São Paulo (2015–2025)
 
-Análise de dados produzida para a reportagem especial **"Vidas em suspenso: Periferias registram maior número de desaparecidos em SP"**, publicada pela **Agência Mural**.
+Análise de dados produzida para a reportagem especial **"Vidas em suspenso: Periferias registram maior número de desaparecidos em SP"**, publicada pela **Agência Mural** (@agenciamural).
 
 🔗 **Leia a reportagem completa:** [agenciamural.org.br/especiais/desaparecidos-em-sp](https://agenciamural.org.br/especiais/desaparecidos-em-sp/)
 
