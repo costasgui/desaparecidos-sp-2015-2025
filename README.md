@@ -66,6 +66,10 @@ As bases apresentam inconsistências inerentes ao processo de registro, incluind
 Conforme orientação oficial:
 > *“Cada linha constante na tabela registra os dados de uma pessoa, natureza ou objeto relacionado no boletim. (…) Para conclusões quanto as quantidades de ocorrências é necessária exclusão das duplicidades por meio dos campos: NOME_DELEGACIA, ANO_BO, NUM_BO”*
 
+#### 2.6. Ano de 2025 incompleto
+
+> Os dados de 2025 cobrem apenas de janeiro a julho. Comparações entre 2025 e anos fechados (2015 a 2024) não são equivalentes e devem considerar essa diferença de período.
+
 **Procedimento aplicado:**
 * **Duplicatas removidas:** 9.735 registros
 * **Critério:** Combinação única de `NOME_DELEGACIA` + `ANO_BO` + `NUM_BO`
